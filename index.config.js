@@ -63,7 +63,7 @@ var index_config_default = {
     url: "https://xpanpan.site"
   },
   wogg: {
-    url: "https://wogg.xyz"
+    url: "http://woggpan.xxooo.cf"
   },
   wwgg: {
     url: "http://www.kxys.site:3328"
