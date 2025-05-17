@@ -274,7 +274,7 @@ var index_config_default = {
     }],
      madoud: [{
       name: "麻豆",
-      url: "http://wuxu.cc/api.php/provide/vod/",
+      url: "http://www.36717.pw/api.php/provide/vod/",
       search: true
     }],
     kkm3u8: [{
